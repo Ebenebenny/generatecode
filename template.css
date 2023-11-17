@@ -102,6 +102,7 @@ label {
   background-position: center;
   background-size: 50px;
   height: 85px;
+  overflow: hidden;
   max-width: 200px;
   margin-top: 5px;
   margin-left: 10px;
