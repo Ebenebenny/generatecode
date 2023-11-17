@@ -10,8 +10,6 @@ main {
   left: 20%;
   transform: translate(-50%, -50%);
   width: 70%;
-
-  background-color: white;
   padding: 6rem;
   border-radius: 5px;
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
@@ -28,7 +26,7 @@ form {
   display: flex;
   flex-direction: column;
   box-shadow: 2px 2px 8px 4px rgba(6, 34, 9, 0.123);
-  padding: 40px;
+  
 }
 #codes:focus {
   background-color: rgb(223, 222, 222);
